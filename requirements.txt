@@ -1,0 +1,4 @@
+django
+django-mptt
+djangorestframework
+djangorestframework-recursive
